@@ -1,5 +1,10 @@
 body {
-    background: rgb(60, 216, 255);
-    font-size: 24;
-    font-family: 'ZCOOL XiaoWei', cursive;
+    background: hsl(249, 93%, 5%);
+    color: rgb(182, 190, 230);
+    font-size: 80;
+    font-family: 'Roboto Slab', serif;
+}
+
+a {
+    color: rgb(255, 255, 255);
 }
