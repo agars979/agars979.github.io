@@ -60,3 +60,12 @@ body {
     top: 20.5px;
     transform: rotate(40deg);
 }
+
+.bar:hover {
+    background-color: #180A9F;
+    padding: 1px;
+}
+
+.black {
+    background-color: #000000;
+}
