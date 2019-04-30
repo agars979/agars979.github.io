@@ -5,7 +5,6 @@ body {
 
 .outline {
     width: 1680px;
-    height: 843px;
 }
 
 .grid {
@@ -68,10 +67,10 @@ body {
 
 .black {
     background-color: #000000;
-    padding: 0.4px;
+    padding: 1px;
 }
 
 .bar:hover {
     background-color: rgb(52, 33, 216);
-    padding: 0.4px;
+    padding: 1px;
 }
