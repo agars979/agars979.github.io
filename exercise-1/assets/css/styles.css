@@ -3,6 +3,11 @@ body {
     padding: 0;
 }
 
+.outline {
+    width: 1680px;
+    height: 843px;
+}
+
 .grid {
     width: 36px;
     height: 44px;
@@ -61,11 +66,12 @@ body {
     transform: rotate(40deg);
 }
 
-.bar:hover {
-    background-color: #180A9F;
-    padding: 1px;
-}
-
 .black {
     background-color: #000000;
+    padding: 0.4px;
+}
+
+.bar:hover {
+    background-color: rgb(52, 33, 216);
+    padding: 0.4px;
 }
