@@ -5,6 +5,7 @@ body {
 
 .outline {
     width: 1680px;
+    background-color: #000000
 }
 
 .grid {
@@ -18,7 +19,7 @@ body {
 
 .bar {
     position: absolute;
-    background: #cacaca;
+    background: #272727;
     width: 1px; 
 }
 
@@ -66,7 +67,7 @@ body {
 }
 
 .black {
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 1px;
 }
 
