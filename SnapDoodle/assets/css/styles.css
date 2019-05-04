@@ -29,6 +29,16 @@ body {
     margin: 0;
 }
 
+.instruct {
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    width: 212px;
+    color: rgb(255, 255, 255);
+    z-index: 999;
+    line-height: 1.4em;
+}
+
 .bar {
     position: absolute;
     background: #272727;
