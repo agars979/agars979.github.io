@@ -1,3 +1,15 @@
+p {
+    font-family: sans-serif;
+}
+
+.intro p {
+    font-size: 1.5em;
+}
+
+.intro {
+    margin: 40px 80px;
+}
+
 body {
     margin: 0;
     padding: 0;
