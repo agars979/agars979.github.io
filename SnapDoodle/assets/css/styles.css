@@ -141,17 +141,21 @@ body {
 .black {
     /* background-color: #ffffff; */
     padding: 1px;
+    z-index: 999;
 }
 
 .dark .black {
     background-color: #ffffff;
+    z-index: 999;
 }
 
 .light .black {
     background-color: #000000;
+    z-index: 999;
 }
 
 .bar:hover {
     background-color: rgb(52, 33, 216);
     padding: 1px;
+    z-index: 999;
 }
